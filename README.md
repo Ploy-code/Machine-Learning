@@ -1,2 +1,2 @@
 # Machine-Learning
-This project was creating during online camp with CESCa#16. It is using machine learning to detect five fingers from my project's member. 
+This project was creating during CESCa#16 online camp with members in the group ML2. It is using machine learning to detect five fingers. 
